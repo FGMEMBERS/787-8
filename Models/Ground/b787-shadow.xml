@@ -16,12 +16,11 @@
         </condition>
     </animation>
 
-    <!-- ALS shadow effect -->
+   <!-- 
     <effect>
         <inherits-from>Effects/shadow</inherits-from>
         <object-name>shadow</object-name>
-    </effect>
-
+    </effect> -->
     <!--Translate to ground level  -->
     <animation>
         <type>translate</type>
@@ -66,5 +65,4 @@
             <z>0</z>
         </axis>
     </animation>
-
 </PropertyList>
